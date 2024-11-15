@@ -18,7 +18,6 @@ This is a solution to the [Testimonials Grid Section challenge on Frontend Mento
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
   - [Code Snippet](#code-snippet)
-  - [Useful Resources](#useful-resources)
 
 ## Overview
 
