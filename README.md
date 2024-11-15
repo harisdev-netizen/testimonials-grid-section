@@ -17,7 +17,6 @@ This is a solution to the [Testimonials Grid Section challenge on Frontend Mento
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  - [Code Snippet](#code-snippet)
 
 ## Overview
 
@@ -52,7 +51,7 @@ Your users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid for layout
-- Mobile-first workflow
+- Desktop-first workflow
 - Responsive design techniques
 - [Google Fonts](https://fonts.google.com/) - For custom typography
 
