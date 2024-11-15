@@ -17,7 +17,6 @@ This is a solution to the [Testimonials Grid Section challenge on Frontend Mento
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
   - [Code Snippet](#code-snippet)
   - [Useful Resources](#useful-resources)
 
@@ -66,11 +65,6 @@ This project enhanced my understanding of:
 - Utilizing CSS custom properties for theme-based design.
 - Building hover effects with transitions for an interactive user experience.
 - Applying media queries for seamless design on different screen sizes.
-
-### Continued Development
-
-- Further refine responsive breakpoints to ensure the layout is optimized for all devices.
-- Add more accessibility features, such as better alt text and ARIA roles for improved user experience.
 
 ### Code Snippet
 
