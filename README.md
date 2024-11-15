@@ -43,8 +43,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/testimonials-grid-section)
-- Live Site URL: [Live Demo](https://testimonials-grid-section.netlify.app/)
+- Solution URL: [GitHub Repository](https://github.com/harisdev-netizen/testimonials-grid-section)
+- Live Site URL: [Live Demo](https://testimonials-grid-sec.netlify.app/)
 
 ## My Process
 
