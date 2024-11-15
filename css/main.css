@@ -68,8 +68,7 @@ body {
   grid-template-areas:
     'testimonials__item--purple testimonials__item--purple testimonials__item--purple testimonials__item--purple testimonials__item--gray testimonials__item--white'
     'testimonials__item--light testimonials__item--dark testimonials__item--dark testimonials__item--dark testimonials__item--dark testimonials__item--white';
-    /* position: relative;
-      overflow: hidden; */
+    
   gap: 20px;
   max-width: 1110px;
   margin: 0 auto;
